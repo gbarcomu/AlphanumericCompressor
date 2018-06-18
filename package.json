@@ -1,0 +1,24 @@
+{
+  "name": "alphanumericcompressor",
+  "version": "1.0.0",
+  "description": "Compress a string into an hexadecimal number where each character fills six bits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbarcomu/AlphanumericCompressor.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Compression",
+    "Node"
+  ],
+  "author": "Guillermo Barco <gbarcomu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbarcomu/AlphanumericCompressor/issues"
+  },
+  "homepage": "https://github.com/gbarcomu/AlphanumericCompressor#readme"
+}
